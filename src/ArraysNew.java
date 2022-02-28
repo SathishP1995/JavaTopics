@@ -13,6 +13,7 @@ public class ArraysNew {
 
         /*int[] copyNumbers = {1,5,6,8};
         int[] copiedNumbers = Arrays.copyOf(copyNumbers, 8);*/
+        //SathishAdded as part of git demo
 
     }
 }

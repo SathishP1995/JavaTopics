@@ -11,7 +11,7 @@ public class Employee {
 
     }
 
-
+    //Added as Git demo
     public void toPrint() {
         System.out.println("Employee{" +"age=" + age +", salary=" + salary +'}');
     }                                    
