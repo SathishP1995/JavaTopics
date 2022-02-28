@@ -12,6 +12,7 @@ public class Employee {
     }
     //New Branch added for pull request
     //Added as Git demo
+    //added new line for learning
     public void toPrint() {
         System.out.println("Employee{" +"age=" + age +", salary=" + salary +'}');
     }                                    
