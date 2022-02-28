@@ -9,7 +9,7 @@ public class Arrays {
             temp[j] = numbers[j];
         }
         numbers = temp;
-        System.out.println("The Final output:"+numbers.length);
+        System.out.println("The Final output of the Array:"+numbers.length);
 
         /*int[] copyNumbers = {1,5,6,8};
         int[] copiedNumbers = Arrays.copyOf(copyNumbers, 8);*/
