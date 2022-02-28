@@ -10,7 +10,7 @@ public class Employee {
     public Employee() {
 
     }
-
+    //New Branch added for pull request
     //Added as Git demo
     public void toPrint() {
         System.out.println("Employee{" +"age=" + age +", salary=" + salary +'}');
